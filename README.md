@@ -14,7 +14,7 @@
 ### Usage
 []: {{{2
 
-     $ cd ansible-pgdg
+     $ cd ansible-pg94
      $ ./run.sh
 
 []: }}}2
