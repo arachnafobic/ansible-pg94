@@ -1,0 +1,9 @@
+---
+
+- name:             configure pgdg
+  hosts:            all
+  sudo:             true
+  sudo_user:        root
+
+  roles:
+    - pgdg
